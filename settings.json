@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "One Monokai",
+    "vim.smartRelativeLine": true,
+    "svelte.enable-ts-plugin": true,
+    "go.toolsManagement.autoUpdate": true,
+    "git.confirmSync": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "vim.vimrc.enable": true
+}
