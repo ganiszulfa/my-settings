@@ -8,4 +8,4 @@
 1. install oh my zsh https://ohmyz.sh/
 2. run this
    ``` git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions ```
-1. copy .zshrc in this repo to ~/.zshrc
+1. copy .zshrc in this repo to ~/.zshrc and `source ~/.zshrc`
